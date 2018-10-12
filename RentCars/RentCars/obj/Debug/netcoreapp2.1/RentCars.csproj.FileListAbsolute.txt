@@ -1,0 +1,11 @@
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCars/obj/Debug/netcoreapp2.1/RentCars.csprojAssemblyReference.cache
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCars/obj/Debug/netcoreapp2.1/RentCars.csproj.CoreCompileInputs.cache
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCars/obj/Debug/netcoreapp2.1/RentCars.AssemblyInfoInputs.cache
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCars/obj/Debug/netcoreapp2.1/RentCars.AssemblyInfo.cs
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCars/bin/Debug/netcoreapp2.1/RentCars.deps.json
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCars/bin/Debug/netcoreapp2.1/RentCars.runtimeconfig.json
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCars/bin/Debug/netcoreapp2.1/RentCars.runtimeconfig.dev.json
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCars/bin/Debug/netcoreapp2.1/RentCars.dll
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCars/bin/Debug/netcoreapp2.1/RentCars.pdb
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCars/obj/Debug/netcoreapp2.1/RentCars.dll
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCars/obj/Debug/netcoreapp2.1/RentCars.pdb

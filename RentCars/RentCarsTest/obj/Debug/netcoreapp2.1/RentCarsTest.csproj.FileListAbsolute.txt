@@ -1,0 +1,17 @@
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCarsTest/obj/Debug/netcoreapp2.1/RentCarsTest.csprojAssemblyReference.cache
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCarsTest/obj/Debug/netcoreapp2.1/RentCarsTest.csproj.CoreCompileInputs.cache
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCarsTest/obj/Debug/netcoreapp2.1/RentCarsTest.AssemblyInfoInputs.cache
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCarsTest/obj/Debug/netcoreapp2.1/RentCarsTest.AssemblyInfo.cs
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCarsTest/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCarsTest/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCarsTest/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCarsTest/bin/Debug/netcoreapp2.1/RentCarsTest.deps.json
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCarsTest/bin/Debug/netcoreapp2.1/RentCarsTest.runtimeconfig.json
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCarsTest/bin/Debug/netcoreapp2.1/RentCarsTest.runtimeconfig.dev.json
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCarsTest/bin/Debug/netcoreapp2.1/RentCarsTest.dll
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCarsTest/bin/Debug/netcoreapp2.1/RentCarsTest.pdb
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCarsTest/bin/Debug/netcoreapp2.1/RentCars.dll
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCarsTest/bin/Debug/netcoreapp2.1/RentCars.pdb
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCarsTest/obj/Debug/netcoreapp2.1/RentCarsTest.csproj.CopyComplete
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCarsTest/obj/Debug/netcoreapp2.1/RentCarsTest.dll
+/Users/danielaristizabaljaramillo/Documents/Liga/BackEnd/SE/RentCars/RentCarsTest/obj/Debug/netcoreapp2.1/RentCarsTest.pdb
